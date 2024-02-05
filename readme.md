@@ -6,6 +6,12 @@ Coinsquare is a cryptocurrency trading platform that provides real-time data for
 
 Coinsquare is designed to offer a comprehensive cryptocurrency trading experience. Users can access real-time pricing details, trade cryptocurrencies, manage their user profiles, and receive assistance through an integrated ChatGPT-powered chatbot. The platform also ensures security with features such as OTP verification and password change.
 
+## Team
+  - Sree Harsha Kamisetty <a href="https://www.linkedin.com/in/sree-harsha-kamisetty/" target="_blank">LinkedIn</a>
+  - Kumari Anjali <a href="https://www.linkedin.com/in/kumarianjali9051/" target="_blank">LinkedIn</a>
+  - Aniket Baghel <a href="https://www.linkedin.com/in/aniket-baghel/" target="_blank">LinkedIn</a>
+  - Aditi Bhadoriya <a href="https://www.linkedin.com/in/aditi-bhadoriya/" target="_blank">LinkedIn</a>
+  - Utkarsh Agnihotri <a href="https://www.linkedin.com/in/utkarshonline/" target="_blank">LinkedIn</a>
 ## Features
 
 ### 1. Real-time Cryptocurrency Data
